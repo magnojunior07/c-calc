@@ -7,7 +7,7 @@ Para executar o projeto é necessário ter o Cmake instalado em sua máquina e e
 ```
 mkdir compiled && cd compiled
 ```
-- Para inicializar o Cmake na pasta, para ler as configurações definidas no arquivo "CMakeLists.txt" e poder compilar o código
+- Para inicializar o Cmake na pasta raiz do projeto, ler as configurações definidas no arquivo "CMakeLists.txt", configurar o compilador de acordo com essas configurações definidas para poder compilar o código
 ```
 cmake ../
 ```
