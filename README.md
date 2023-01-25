@@ -1,5 +1,5 @@
 # c-calc
-Calculadora simples feita em C, com o objetivo de aprofundar umm pouco os meus estudos na linguagem C, e exercitar um pouco minha lógica de programação
+Calculadora simples feita em C, com o objetivo de aprofundar um pouco os meus estudos na linguagem C, e exercitar um pouco minha lógica de programação
 
 ## Executando o projeto
 Para executar o projeto é necessário ter o Cmake instalado em sua máquina e executar os seguintes comandos:
